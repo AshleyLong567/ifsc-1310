@@ -1,4 +1,13 @@
 body { 
-    background-color:deeppink;
+    background-color:deeppink ;
     
+    }
+    
+   div {
+  background-image: url(https://post.greatist.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
+ 
+    
+ 
