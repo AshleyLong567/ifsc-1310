@@ -1,5 +1,4 @@
 
-
 body {
  
 background: url("img/logo.jpg");
@@ -17,10 +16,10 @@ p {
   max-width: 75%;
 }
 
-
 .header2 {
-  font-size: 50px;
+  font-size: 70px;
   color:grey;
+  text-decoration: underline;
 }
 
 .header4 {
@@ -50,21 +49,10 @@ p {
 }
 
 .button {
-  width:80px;
+  width:350px;
   height:40px;
+  font-size:30px;
   color:darkblue;
   background-color:grey;
 }
 
-.button2 {
-  width:200px;
-  height:40px;
-  color:darkblue;
-  background-color:grey;
-}
-.button3 {
-  width:120px;
-  height:40px;
-  color:darkblue;
-  background-color:grey;
-}

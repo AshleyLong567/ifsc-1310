@@ -1,0 +1,51 @@
+body{
+    
+    background: linear-gradient(lightpink 20%, lightblue 80%);
+}
+
+
+
+.title  {
+    font-size: 30px;
+    color:black;
+}
+
+.buttons {
+    font-size:30px;
+    color:white;
+    background-color:black;
+}
+
+.buttons2 {
+    font-size:30px;
+    width:200px;
+    height:60px;
+    color:white;
+    background-color:black;
+}
+
+
+.center {
+ 
+  display: block;
+  top:200px;
+  width: 30%;
+}
+
+.center2 {
+ 
+  display: block;
+  top:200px;
+  width: 20%;
+}
+
+
+.paragraph {
+    font-size:25px;
+    color:black;
+}
+
+.header {
+    font-size:35px;
+    color:black;
+}
